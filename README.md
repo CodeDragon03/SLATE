@@ -88,6 +88,8 @@ If you encounter any issues, please open an issue in the
 
 ## References
 
+- [Project Documentation](https://www.notion.so/Covalence-2a847e65d6bc80ec997fcbcff2b340e9?source=copy_link)
+
 ## License
 
 This project is licensed under the
