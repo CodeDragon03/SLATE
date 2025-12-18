@@ -9,11 +9,11 @@
 </blockquote>
 
 <div align="center">
-<img src="https://img.shields.io/github/contributors/CodeDragon03/Covalence?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
-<img src="https://img.shields.io/github/forks/CodeDragon03/Covalence?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
-<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/Covalence?style=for-the-badge&logo=github&color=green">
-<img src="https://img.shields.io/github/stars/CodeDragon03/Covalence?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
-<img src="https://img.shields.io/github/issues/CodeDragon03/Covalence?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
+<img src="https://img.shields.io/github/contributors/CodeDragon03/SLATE?style=for-the-badge&logo=github&color=green" alt="GitHub contributors" />
+<img src="https://img.shields.io/github/forks/CodeDragon03/SLATE?style=for-the-badge&logo=github&color=green" alt="GitHub forks" />
+<img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/CodeDragon03/SLATE?style=for-the-badge&logo=github&color=green">
+<img src="https://img.shields.io/github/stars/CodeDragon03/SLATE?style=for-the-badge&logo=github&color=green" alt="GitHub Repo stars" />
+<img src="https://img.shields.io/github/issues/CodeDragon03/SLATE?style=for-the-badge&logo=github&color=green" alt="GitHub Issues or Pull Requests" />
 </div>
 
 ## Table of Contents
@@ -25,20 +25,20 @@
 - [Appendix](#appendix)
 - [References](#references)
 - [License](#license)
-- [Issues](https://github.com/CodeDragon03/Covalence/issues)
+- [Issues](https://github.com/CodeDragon03/SLATE/issues)
 
 ## Getting Started
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/CodeDragon03/Covalence.git
+    git clone https://github.com/CodeDragon03/SLATE.git
     ```
 
 2.  **Install dependencies:**
 
     ```bash
-    cd Covalence
+    cd SLATE
 
     pnpm install
     ```
@@ -60,15 +60,15 @@ Please visit [Tips](./CONTRIBUTING.md) for instructions, thank you!
 Thanks to all the people who have contributed to this project\!
 
 <div align="start">
-<a href="https://github.com/CodeDragon03/Monorepo/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=CodeDragon03/Monorepo"/>
+<a href="https://github.com/CodeDragon03/SLATE/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=CodeDragon03/SLATE"/>
 </a>
 </div>
 
 ## Issues
 
 If you encounter any issues, please open an issue in the
-[Issues](https://github.com/CodeDragon03/Covalence/issues) section.
+[Issues](https://github.com/CodeDragon03/SLATE/issues) section.
 
 ### Issue Guidelines
 
