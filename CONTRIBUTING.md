@@ -8,9 +8,9 @@ We welcome contributions\! To get started, please follow these steps:
 2.  **Clone your fork**
 
     ```bash
-    git clone https://github.com/CodeDragon03/Covalence.git
+    git clone https://github.com/CodeDragon03/SLATE.git
 
-    cd Covalence
+    cd SLATE
     ```
 
 3.  **Create a new branch** Use a descriptive branch name for your feature or
